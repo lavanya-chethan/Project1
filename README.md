@@ -16,6 +16,7 @@
 * Commited and Pushed Python code 
 * Created Readme file and Answered all the questions.
 * Commited and Pushed Readme file with all answered questions.
+  
 
 — What issues you ran into and how you solved them:
 * Installing Cursor : Had no idea about Cursor and ended up installing Python also while installing Cursor.
